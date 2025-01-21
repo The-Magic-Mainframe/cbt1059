@@ -1,99 +1,114 @@
-----+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
-Nick,
- Well wished for the future!
-                      LP
-
-Nick,
- Thank for all the knowledge you have
- shared over the years. We hate to
- see you go, but wishing you the best
- on your next career pursuits!
-                TMJ
-----+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
-Bye Nick,
-
-It was fun working with you
-and will always appreciate the
-help you provided me over the
-years.
-
-Hope to see you in the industry.
-
-DKN
-
-Nick,
- Your effort, compassion, and ability
-massively helped me (and I'm sure the other
-newbies) grow personally and professionally
-as we embarked on our careers. Thank you
-for making JES2 an easier and more fun
-beast to tame.
-                          JMB
-----+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
-Nick,
-  I didn't get to work with you very long, but in the time I did
-  you were always open to helping me learn and understand what I was
-  actually doing. Thanks for your help and patience in reaching me
-  and good luck in your n ext chapter.
-                                            MG
-
-HASP9000,
-I know you will do well and be appreciated no matter
-where you go! You did teach more most (sic) of what I
-know so I could be biased :). Yoou really are great
-and strong to make the difficult choices and make the
-next steps in your life. I will always be reachable
-and you can call anytime! Continue to choose what
-makes you happy and I am rooting for you!!
-                      MN
-----+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
-Nick,
-  It has certainly been a privilege and
-a pleasure to work with you on JES2!
-Thank you for all the thorough testing
-you developed and conducted to ensure
-that JES2 continued to "fly high" as
-we made our many various service fixes
-and development enhancements to the
-component over the years! Thank you for
-the service fixes you provided for us!
-Thank you for the infectious enthusiam (sic)
-you brought to the team! We will miss
-what you would have contributed to our 
-lives (and the team) down the road. Please
-stay in touch: My home e-mail address is
-<redacted>
-     God bless you and your family!
-                 MJH
-----+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
-NICK,                                    Nick, thank you for
-THERE ARE                                 Welcoming me into the
-PEOPLE I WILL                              JES2 family four
-ALWAYS REMEMBER AS                        years ago. I can say I
-PART OF JES2. LOWELL,                    learned a great deal
-HFAM, CHIP, EGGBERT, + OF                from you and I will
-COURSE NOW YOU. THANK YOU                always have my "Tips
-FOR ALL YOU DID FOR US. BEST OF          from Nick" sheet to
-LUCK IN YOUR FUTURE.                     Reference. Best Wishes
-                     TJW                 to you and your family
-    Nick,                                        WDI
-I really appreciated your mentorship when I
-joined the JES2 team. Thank you for the
-energy, character, and ideas you brought to
-the team. They will be missed. Good luck
-to you and your family in your future endeavors.
-Stay in touch!      LW
-----+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
-Nick,
- best luck on your endeavours.
- I am sure you will have ample opportunity
- for diverse skills of yours. AXP
-
-Nick, it was pleasure working with
-you through the years. You were
-great mentor for others, always
-willing to help, bringing lots of
-energy to the team and looking
-to improve JES2. I wish you
-the best in life! RK
-----+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
++------------------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                      $$$$$\ $$$$$$$$\  $$$$$$\   $$$$$$\                     |
+|                      \__$$ |$$  _____|$$  __$$\ $$  __$$\                    |
+|                         $$ |$$ |      $$ /  \__|\__/  $$ |                   |
+|                         $$ |$$$$$\    \$$$$$$\   $$$$$$  |                   |
+|                   $$\   $$ |$$  __|    \____$$\ $$  ____/                    |
+|                   $$ |  $$ |$$ |      $$\   $$ |$$ |                         |
+|                   \$$$$$$  |$$$$$$$$\ \$$$$$$  |$$$$$$$$\                    |
+|                    \______/ \________| \______/ \________|                   |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++------------------------------------------------------------------------------+
+| Nick,                                                                        |
+|  Well wished for the future!                                                 |
+|                       LP                                                     |
+|                                                                              |
+| Nick,                                                                        |
+|  Thank for all the knowledge you have                                        |
+|  shared over the years. We hate to                                           |
+|  see you go, but wishing you the best                                        |
+|  on your next career pursuits!                                               |
+|                 TMJ                                                          |
++------------------------------------------------------------------------------+
+| Bye Nick,                                                                    |
+|                                                                              |
+| It was fun working with you                                                  |
+| and will always appreciate the                                               |
+| help you provided me over the                                                |
+| years.                                                                       |
+|                                                                              |
+| Hope to see you in the industry.                                             |
+|                                                                              |
+| DKN                                                                          |
+|                                                                              |
+| Nick,                                                                        |
+|  Your effort, compassion, and ability                                        |
+| massively helped me (and I'm sure the other                                  |
+| newbies) grow personally and professionally                                  |
+| as we embarked on our careers. Thank you                                     |
+| for making JES2 an easier and more fun                                       |
+| beast to tame.                                                               |
+|                           JMB                                                |
++------------------------------------------------------------------------------+
+| Nick,                                                                        |
+|   I didn't get to work with you very long, but in the time I did             |
+|   you were always open to helping me learn and understand what I was         |
+|   actually doing. Thanks for your help and patience in reaching me           |
+|   and good luck in your n ext chapter.                                       |
+|                                             MG                               |
+|                                                                              |
+| HASP9000,                                                                    |
+| I know you will do well and be appreciated no matter                         |
+| where you go! You did teach more most (sic) of what I                        |
+| know so I could be biased :). Yoou really are great                          |
+| and strong to make the difficult choices and make the                        |
+| next steps in your life. I will always be reachable                          |
+| and you can call anytime! Continue to choose what                            |
+| makes you happy and I am rooting for you!!                                   |
+|                       MN                                                     |
++------------------------------------------------------------------------------+
+| Nick,                                                                        |
+|   It has certainly been a privilege and                                      |
+| a pleasure to work with you on JES2!                                         |
+| Thank you for all the thorough testing                                       |
+| you developed and conducted to ensure                                        |
+| that JES2 continued to "fly high" as                                         |
+| we made our many various service fixes                                       |
+| and development enhancements to the                                          |
+| component over the years! Thank you for                                      |
+| the service fixes you provided for us!                                       |
+| Thank you for the infectious enthusiam (sic)                                 |
+| you brought to the team! We will miss                                        |
+| what you would have contributed to our                                       |
+| lives (and the team) down the road. Please                                   |
+| stay in touch: My home e-mail address is                                     |
+| <redacted>                                                                   |
+|      God bless you and your family!                                          |
+|                  MJH                                                         |
++------------------------------------------------------------------------------+
+| NICK,                                    Nick, thank you for                 |
+| THERE ARE                                 Welcoming me into the              |
+| PEOPLE I WILL                              JES2 family four                  |
+| ALWAYS REMEMBER AS                        years ago. I can say I             |
+| PART OF JES2. LOWELL,                    learned a great deal                |
+| HFAM, CHIP, EGGBERT, + OF                from you and I will                 |
+| COURSE NOW YOU. THANK YOU                always have my "Tips                |
+| FOR ALL YOU DID FOR US. BEST OF          from Nick" sheet to                 |
+| LUCK IN YOUR FUTURE.                     Reference. Best Wishes              |
+|                      TJW                 to you and your family              |
+|     Nick,                                        WDI                         |
+| I really appreciated your mentorship when I                                  |
+| joined the JES2 team. Thank you for the                                      |
+| energy, character, and ideas you brought to                                  |
+| the team. They will be missed. Good luck                                     |
+| to you and your family in your future endeavors.                             |
+| Stay in touch!      LW                                                       |
++------------------------------------------------------------------------------+
+| Nick,                                                                        |
+|  best luck on your endeavours.                                               |
+|  I am sure you will have ample opportunity                                   |
+|  for diverse skills of yours. AXP                                            |
+|                                                                              |
+| Nick, it was pleasure working with                                           |
+| you through the years. You were                                              |
+| great mentor for others, always                                              |
+| willing to help, bringing lots of                                            |
+| energy to the team and looking                                               |
+| to improve JES2. I wish you                                                  |
+| the best in life! RK                                                         |
++------------------------------------------------------------------------------+
